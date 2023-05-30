@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksbalev&theme=onedark&title=PullRequest,Commits,Repositories" alt="aleksbalev" /></a> </p>
 
-- 🌱 I’m currently learning **Nvim, Go**
-
 <h3 align="left">🚀 Languages and Tools that I like to use:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="amplify" width="40" height="40"/> </a>
@@ -18,9 +16,9 @@
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksbalev&show_icons=true&locale=en&layout=compact" alt="aleksbalev" /></p>
-
 <h3>💡 Interests</h3>
 <p align="left">
   I'm currently diving into the world of backend development, specifically focusing on learning Go. I enjoy the challenge of grasping complex concepts and applying them to real-world scenarios. Additionally, I'm on a     journey to fully transition to Vim as my primary text editor, constantly improving my productivity and efficiency.
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksbalev&show_icons=true&locale=en&layout=compact" alt="aleksbalev" /></p>
