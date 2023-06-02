@@ -21,4 +21,4 @@
   I'm currently diving into the world of backend development, specifically focusing on learning Go. I enjoy the challenge of grasping complex concepts and applying them to real-world scenarios. Additionally, I'm on a     journey to fully transition to Vim as my primary text editor, constantly improving my productivity and efficiency.
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksbalev&show_icons=true&locale=en&layout=compact" alt="aleksbalev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksbalev&show_icons=true&locale=en&layout=compact&count_private=true" alt="aleksbalev" /></p>
