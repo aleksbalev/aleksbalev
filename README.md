@@ -21,7 +21,7 @@
 
 <h3>💡 Interests</h3>
 <p align="left">
-  I'm currently diving into the world of mobile development, mastering both Android and iOS development using Kotlinlang with Jetpack Compose and Swift using SwifthUI and UIKit. I enjoy the challenge of grasping complex concepts and applying them to real-world scenarios.
+  I'm currently diving into the world of mobile development, mastering both Android and iOS development using Kotlinlang with Jetpack Compose, Kotlin Multiplatform, Compose Multiplatform and Swift using SwifthUI and UIKit. I enjoy the challenge of grasping complex concepts and applying them to real-world scenarios.
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksbalev&show_icons=true&locale=en&layout=compact" alt="aleksbalev" /></p>
