@@ -2,8 +2,6 @@
 <h4 align="left">A software developer with a passion for learning and exploring new technologies. Welcome to my GitHub profile!</h3>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksbalev&theme=onedark&title=PullRequest,Commits,Repositories" alt="aleksbalev" /></a> </p>
-
 <h3 align="left">🚀 Languages and Tools that I like to use:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
